@@ -1,0 +1,46 @@
+/* CSS Document */
+
+body {
+margin:0px 0px 0px 0px;
+}
+
+.nen {
+background-image:url(Templates/IMAGES/chuyensac.jpg);
+background-repeat:repeat-y;
+background-position:right;
+
+}
+.menu {
+    background-image: url("IMAGES/nen_thucdon.jpg");
+    background-repeat: repeat-x;
+    color: #FFFFFF;
+}
+
+.tieude {
+font-family:tahoma;
+font-size:40px;
+color:#FF6600;
+font-weight:bold;
+padding-left:15px;
+}
+
+.noidung {
+font-family:tahoma;
+font-size:12px;
+color:#000066;
+padding-left:15px;
+	background-image: url("IMAGES/sua.gif");
+	background-repeat: repeat-y;
+}
+
+a {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #0000FF;
+}
