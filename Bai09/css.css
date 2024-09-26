@@ -1,0 +1,57 @@
+a{
+font: verdana;
+font-size:11px;
+color:#FFFFFF;
+text-decoration:none;
+font-weight:bold;
+}
+
+a:hover {
+text-decoration:underline;
+color:#52031e;
+}
+
+body {
+    margin: 0px;
+    background-color: #52031e;
+    color: #FFFFFF;
+}
+
+.bien {
+border-top:#FFFFFF solid 1px;
+border-bottom:#FFFFFF solid 1px;
+padding-left:10px;
+color: #FFFFFF;
+}
+
+.tieude {
+font-family:ARIAL;
+font-size:24px;
+color:#FFFFFF;
+font-weight:bold;
+}
+
+.footer {
+font-family: tahoma;
+font-size:x-small;
+color:#FFFFFF;
+}
+
+.nut {
+background-image:url(Images/nut_tim_kiem.gif);
+background-color:#922722;
+background-repeat:no-repeat;
+color:#FFFFFF;
+}
+
+.noidung{
+font-family: tahoma;
+font-size:small;
+color:#FFFFFF;
+padding-left:20px;
+}
+.background {
+	background-image: url("Images/back_07.gif");
+	background-repeat: repeat-x ;
+	
+}
