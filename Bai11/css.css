@@ -1,0 +1,20 @@
+body {
+    background-image: url("images/bg_index.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+    color: #FFF500;
+}
+.nen {
+	background-image: url("images/lenam-top.gif");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.B1 {
+    background-image: url("images/index_09.gif");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-size: 18px;
+}
+.gioithieu {
+	color: #FFD600;
+} 
